@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Grace!</h1>
 <h3 align="center">MCA Student | Aspiring Backend Developer | Python & MERN Stack Enthusiast |</h3>
 
-<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<!--<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />-->
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <!--- 🔭 I’m currently working on **Expense Tracker **-->
 - 🌱 I’m learning **Blockchain, Docker, and Full-Stack JS**
