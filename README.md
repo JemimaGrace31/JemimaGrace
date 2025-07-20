@@ -3,7 +3,7 @@
 
 <!--<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />-->
 
-<img align="right" alt="Coding" width="400" src="https:https://github.com/JemimaGrace31/JemimaGrace/blob/main/12984537-dbed-42f1-a7b8-03778637c62e.png />
+<img align="right" alt="Coding" width="400" src="https:https://github.com/JemimaGrace31/JemimaGrace/blob/main/12984537-dbed-42f1-a7b8-03778637c62e.png /">
 
 <!--- 🔭 I’m currently working on **Expense Tracker **-->
 - 🌱 I’m learning **Blockchain, Docker, and Full-Stack JS**
