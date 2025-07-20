@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Grace!</h1>
 <h3 align="center">MCA Student | Aspiring Backend Developer | Python & MERN Stack Enthusiast |</h3>
 
-<!--<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />-->
+<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<img alt="lottiefiles.com/free-ani..." class="h-full max-w-full object-contain" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" style="background-image: url(&quot;https://images.openai.com/thumbnails/url/k7fO43icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5MdclNKin2dtdNK8ktyHJxNjExNSnLNQoMLgguKjNNCqp0c_XzcPL2ywtJNg3ycI7KDil29wgIjjdwD1QrBgAYGSlX&quot;); background-size: contain; aspect-ratio: 1 / 1; background-position: center center; background-repeat: no-repeat; opacity: 1;">
+
 <!--- 🔭 I’m currently working on **Expense Tracker **-->
 - 🌱 I’m learning **Blockchain, Docker, and Full-Stack JS**
 - 💬 Ask me about **Python, Java, Node.js, MongoDB, Git**
