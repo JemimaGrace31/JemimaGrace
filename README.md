@@ -39,7 +39,7 @@
 - 🔧 **[Expense Tracker & Analyzer](https://github.com/yourusername/expense-tracker)**  
   A desktop app to manage and visualize expenses with prediction using `Tkinter`, `Matplotlib`, `SQLite`.
 
-- 🧳 **[Travel Story Web App](https://github.com/JemimaGrace31/travel-story)**  
+- 🧳 **[Travel Story Web App](https://github.com/JemimaGrace31/Voyage-verse)**  
   Full-stack app built using `MERN`, allowing users to post and explore travel memories with JWT auth.
 
 ---
