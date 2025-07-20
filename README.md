@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Grace!</h1>
 <h3 align="center">MCA Student | Aspiring Backend Developer | Python & MERN Stack Enthusiast |</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on **Expense Tracker **
+
+<!--- 🔭 I’m currently working on **Expense Tracker **-->
 - 🌱 I’m learning **Blockchain, Docker, and Full-Stack JS**
 - 💬 Ask me about **Python, Java, Node.js, MongoDB, Git**
 - 📫 How to reach me: **jemimagrace3108@gmail.com**
@@ -38,14 +39,6 @@
 
 <!--- 🔧 **[Expense Tracker & Analyzer](https://github.com/yourusername/expense-tracker)**  
   A desktop app to manage and visualize expenses with prediction using `Tkinter`, `Matplotlib`, `SQLite`.-->
-  
-
-
-- 📂**[to-do](https://github.com/JemimaGrace31/to-do)**
-  A task management app using React and Node.js.
-  
-- 📖 **[Booksky](https://github.com/JemimaGrace31/Booksky)**
-   A book listing and management app.
 
 - 🧳 **[Travel Story Web App](https://github.com/JemimaGrace31/Voyage-verse)**  
   Full-stack app built using `MERN`, allowing users to post and explore travel memories with JWT auth.
